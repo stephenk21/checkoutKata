@@ -1,0 +1,8 @@
+{
+  "ItemPath": "Items.json",
+  "OfferPath": "Offers.json",
+  "ItemSKU": "Item",
+  "ItemPrice": "Unit Price",
+  "OfferQuantity": "Quantity",
+  "OfferPrice": "Special Price"
+}

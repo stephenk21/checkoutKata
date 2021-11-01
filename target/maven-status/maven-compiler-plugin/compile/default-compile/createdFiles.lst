@@ -1,0 +1,9 @@
+application\cart\CartOperations.class
+application\offers\Offer.class
+application\items\Item.class
+application\CartApplication.class
+application\config\FileReader.class
+application\offers\OfferList.class
+application\cart\CartConsole.class
+application\config\FileReaderException.class
+application\items\ItemList.class

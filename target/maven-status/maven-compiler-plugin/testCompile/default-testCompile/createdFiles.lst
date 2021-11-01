@@ -1,0 +1,5 @@
+cart\CartOperationsTests.class
+lists\ItemListTests.class
+config\FileReaderTests.class
+cart\CartTestParameters.class
+lists\OfferListTests.class
