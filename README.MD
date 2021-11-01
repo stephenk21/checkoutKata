@@ -17,7 +17,7 @@ To run the tests run ```mvn test``` in the base directory
 
 ### Configuration
 
-The configuration for this application can be found in main/resources/Config.json It contains the following fields:
+The configuration for this application can be found in src/main/resources/Config.json It contains the following fields:
 
 * "ItemPath": The path to where items are stored
 * "OfferPath": The path to where offers are stored
